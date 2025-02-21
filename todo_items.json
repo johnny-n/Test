@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Visit Tokyo",
+    "priority": 1,
+    "completed": false,
+  },
+  {
+    "title": "Travel to Oahu, Hawaii",
+    "priority": 2,
+    "completed": false,
+  },
+  {
+    "title": "Snowboard in Hokkaido",
+    "priority": 1,
+    "completed": false,
+  }
+]
