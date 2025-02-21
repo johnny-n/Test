@@ -1,15 +1,18 @@
 [
   {
+    "id": "b6a6d462-3f0d-4c4f-ae2e-4eb0f1c3d8f2",
     "title": "Visit Tokyo",
     "priority": 1,
     "completed": false,
   },
   {
+    "id": "c9138c61-01a1-41b5-90a9-7b6e13a5a26d",
     "title": "Travel to Oahu, Hawaii",
     "priority": 2,
     "completed": false,
   },
   {
+    "id": "f2e89d45-8c4d-4e2f-b3f1-7a4e6e0d9b14",
     "title": "Snowboard in Hokkaido",
     "priority": 1,
     "completed": false,
