@@ -2,19 +2,13 @@
   {
     "id": 1,
     "title": "Cozy Studio Apartment in Downtown",
-    "location": {
-      "city": "New York",
-      "country": "USA"
-    },
+    "location": { "city": "New York", "country": "USA" },
     "price_per_night": 120,
     "currency": "USD",
     "rating": 4.8,
     "reviews": 234,
     "amenities": ["WiFi", "Air Conditioning", "Kitchen", "Washer"],
-    "host": {
-      "name": "Alice Johnson",
-      "superhost": true
-    },
+    "host": { "name": "Alice Johnson", "superhost": true },
     "available_dates": ["2025-03-10", "2025-03-11", "2025-03-12"],
     "images": [
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
@@ -24,19 +18,13 @@
   {
     "id": 2,
     "title": "Modern Loft with City View",
-    "location": {
-      "city": "Berlin",
-      "country": "Germany"
-    },
+    "location": { "city": "Berlin", "country": "Germany" },
     "price_per_night": 90,
     "currency": "EUR",
     "rating": 4.6,
     "reviews": 178,
     "amenities": ["WiFi", "Elevator", "Heating"],
-    "host": {
-      "name": "Jonas Müller",
-      "superhost": false
-    },
+    "host": { "name": "Jonas Müller", "superhost": false },
     "available_dates": ["2025-03-15", "2025-03-16", "2025-03-17"],
     "images": [
       "https://images.unsplash.com/photo-1560448070-c92c5be74a9c?auto=format&fit=crop&w=800&q=80",
@@ -46,19 +34,13 @@
   {
     "id": 3,
     "title": "Beachfront Bungalow Escape",
-    "location": {
-      "city": "Bali",
-      "country": "Indonesia"
-    },
+    "location": { "city": "Bali", "country": "Indonesia" },
     "price_per_night": 150,
     "currency": "USD",
     "rating": 5.0,
     "reviews": 321,
     "amenities": ["WiFi", "Pool", "Free Parking", "Breakfast"],
-    "host": {
-      "name": "Made Santika",
-      "superhost": true
-    },
+    "host": { "name": "Made Santika", "superhost": true },
     "available_dates": ["2025-04-01", "2025-04-02", "2025-04-03"],
     "images": [
       "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80",
@@ -68,19 +50,13 @@
   {
     "id": 4,
     "title": "Charming Cottage in the Countryside",
-    "location": {
-      "city": "Edinburgh",
-      "country": "Scotland"
-    },
+    "location": { "city": "Edinburgh", "country": "Scotland" },
     "price_per_night": 110,
     "currency": "GBP",
     "rating": 4.9,
     "reviews": 89,
     "amenities": ["WiFi", "Fireplace", "Garden", "Free Parking"],
-    "host": {
-      "name": "Fiona MacLeod",
-      "superhost": true
-    },
+    "host": { "name": "Fiona MacLeod", "superhost": true },
     "available_dates": ["2025-05-10", "2025-05-11", "2025-05-12"],
     "images": [
       "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80",
@@ -90,19 +66,13 @@
   {
     "id": 5,
     "title": "Ski Chalet with Mountain View",
-    "location": {
-      "city": "Aspen",
-      "country": "USA"
-    },
+    "location": { "city": "Aspen", "country": "USA" },
     "price_per_night": 300,
     "currency": "USD",
     "rating": 4.7,
     "reviews": 145,
     "amenities": ["WiFi", "Hot Tub", "Fireplace", "Ski-in/Ski-out"],
-    "host": {
-      "name": "James Peterson",
-      "superhost": false
-    },
+    "host": { "name": "James Peterson", "superhost": false },
     "available_dates": ["2025-12-20", "2025-12-21", "2025-12-22"],
     "images": [
       "https://images.unsplash.com/photo-1615874959474-d607b48fa94f?auto=format&fit=crop&w=800&q=80",
@@ -112,23 +82,81 @@
   {
     "id": 6,
     "title": "Luxury Penthouse Overlooking Marina Bay",
-    "location": {
-      "city": "Singapore",
-      "country": "Singapore"
-    },
+    "location": { "city": "Singapore", "country": "Singapore" },
     "price_per_night": 500,
     "currency": "SGD",
     "rating": 5.0,
     "reviews": 60,
     "amenities": ["WiFi", "Private Pool", "Gym Access", "Concierge"],
-    "host": {
-      "name": "Lina Tan",
-      "superhost": true
-    },
+    "host": { "name": "Lina Tan", "superhost": true },
     "available_dates": ["2025-06-01", "2025-06-02", "2025-06-03"],
     "images": [
       "https://images.unsplash.com/photo-1576675783172-8d61a5f7c8b5?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1598928506311-c55deddb434f?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Rustic Treehouse Adventure",
+    "location": { "city": "Portland", "country": "USA" },
+    "price_per_night": 140,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 210,
+    "amenities": ["WiFi", "Nature Trails", "Free Parking"],
+    "host": { "name": "Henry Woods", "superhost": true },
+    "available_dates": ["2025-07-01", "2025-07-02", "2025-07-03"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154107-13d1e4a7011d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Historic Flat in Central Paris",
+    "location": { "city": "Paris", "country": "France" },
+    "price_per_night": 200,
+    "currency": "EUR",
+    "rating": 4.8,
+    "reviews": 305,
+    "amenities": ["WiFi", "Washer", "Balcony", "Heating"],
+    "host": { "name": "Claire Dupont", "superhost": true },
+    "available_dates": ["2025-09-01", "2025-09-02", "2025-09-03"],
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1578894387869-5b3aa6ac7062?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Minimalist Apartment in Tokyo",
+    "location": { "city": "Tokyo", "country": "Japan" },
+    "price_per_night": 95,
+    "currency": "JPY",
+    "rating": 4.7,
+    "reviews": 150,
+    "amenities": ["WiFi", "Air Conditioning", "Washer"],
+    "host": { "name": "Takashi Ito", "superhost": false },
+    "available_dates": ["2025-08-01", "2025-08-02", "2025-08-03"],
+    "images": [
+      "https://images.unsplash.com/photo-1578894387887-29d07f6b7f1c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Eco-Friendly Tiny Home Retreat",
+    "location": { "city": "Vancouver", "country": "Canada" },
+    "price_per_night": 105,
+    "currency": "CAD",
+    "rating": 4.9,
+    "reviews": 185,
+    "amenities": ["WiFi", "Solar Power", "Garden", "Compost Toilet"],
+    "host": { "name": "Sophie Clarke", "superhost": true },
+    "available_dates": ["2025-10-01", "2025-10-02", "2025-10-03"],
+    "images": [
+      "https://images.unsplash.com/photo-1559599189-b408dc0b5b2a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80"
     ]
   }
 ]
