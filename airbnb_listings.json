@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Studio Apartment in Downtown",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "price_per_night": 120,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 234,
+    "amenities": ["WiFi", "Air Conditioning", "Kitchen", "Washer"],
+    "host": {
+      "name": "Alice Johnson",
+      "superhost": true
+    },
+    "available_dates": ["2025-03-10", "2025-03-11", "2025-03-12"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1613977257363-e7dcff206b26?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Modern Loft with City View",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "price_per_night": 90,
+    "currency": "EUR",
+    "rating": 4.6,
+    "reviews": 178,
+    "amenities": ["WiFi", "Elevator", "Heating"],
+    "host": {
+      "name": "Jonas Müller",
+      "superhost": false
+    },
+    "available_dates": ["2025-03-15", "2025-03-16", "2025-03-17"],
+    "images": [
+      "https://images.unsplash.com/photo-1560448070-c92c5be74a9c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598928506311-c55deddb434f?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Beachfront Bungalow Escape",
+    "location": {
+      "city": "Bali",
+      "country": "Indonesia"
+    },
+    "price_per_night": 150,
+    "currency": "USD",
+    "rating": 5.0,
+    "reviews": 321,
+    "amenities": ["WiFi", "Pool", "Free Parking", "Breakfast"],
+    "host": {
+      "name": "Made Santika",
+      "superhost": true
+    },
+    "available_dates": ["2025-04-01", "2025-04-02", "2025-04-03"],
+    "images": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Charming Cottage in the Countryside",
+    "location": {
+      "city": "Edinburgh",
+      "country": "Scotland"
+    },
+    "price_per_night": 110,
+    "currency": "GBP",
+    "rating": 4.9,
+    "reviews": 89,
+    "amenities": ["WiFi", "Fireplace", "Garden", "Free Parking"],
+    "host": {
+      "name": "Fiona MacLeod",
+      "superhost": true
+    },
+    "available_dates": ["2025-05-10", "2025-05-11", "2025-05-12"],
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ski Chalet with Mountain View",
+    "location": {
+      "city": "Aspen",
+      "country": "USA"
+    },
+    "price_per_night": 300,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 145,
+    "amenities": ["WiFi", "Hot Tub", "Fireplace", "Ski-in/Ski-out"],
+    "host": {
+      "name": "James Peterson",
+      "superhost": false
+    },
+    "available_dates": ["2025-12-20", "2025-12-21", "2025-12-22"],
+    "images": [
+      "https://images.unsplash.com/photo-1615874959474-d607b48fa94f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1618220179428-e6344c8e57b3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Luxury Penthouse Overlooking Marina Bay",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "price_per_night": 500,
+    "currency": "SGD",
+    "rating": 5.0,
+    "reviews": 60,
+    "amenities": ["WiFi", "Private Pool", "Gym Access", "Concierge"],
+    "host": {
+      "name": "Lina Tan",
+      "superhost": true
+    },
+    "available_dates": ["2025-06-01", "2025-06-02", "2025-06-03"],
+    "images": [
+      "https://images.unsplash.com/photo-1576675783172-8d61a5f7c8b5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598928506311-c55deddb434f?auto=format&fit=crop&w=800&q=80"
+    ]
+  }
+]
